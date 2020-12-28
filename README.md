@@ -21,6 +21,6 @@ It also accepts URLs to get the image
  | `tolerance` | Float  | Tolerance value to match face to person 0-1.0  |
 
  ## Credits
- This project is based on 
+ This project is based on <br/>
  [Instagram Profile Picture Extraction](https://github.com/debdutgoswami/instagram-profile-picture)<br/>
  [Face Recognition](https://github.com/ageitgey/face_recognition)
