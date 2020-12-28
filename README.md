@@ -19,3 +19,8 @@ It also accepts URLs to get the image
  | `username`     | String  | Instagram username of the person to recognate. Ex.: zuck |
  | `path`  | String | Path to input image (you can use URL or path to file system) |
  | `tolerance` | Float  | Tolerance value to match face to person 0-1.0  |
+
+ ## Credits
+ This project is based on 
+ [Instagram Profile Picture Extraction](https://github.com/debdutgoswami/instagram-profile-picture)
+ [Face Recognition](https://github.com/ageitgey/face_recognition)
