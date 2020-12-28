@@ -12,4 +12,10 @@ It also accepts URLs to get the image
  
  ![](/example/output1.png)
 
+ **Arguments**
 
+ | parameter | type    | description                                      |
+ | --------- | ------- | ------------------------------------------------ |
+ | `username`     | String  | Instagram username of the person to recognate. Ex.: zuck |
+ | `path`  | String | Path to input image (you can use URL or path to file system) |
+ | `tolerance` | Float  | Tolerance value to match face to person 0-1.0  |
