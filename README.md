@@ -22,5 +22,5 @@ It also accepts URLs to get the image
 
  ## Credits
  This project is based on 
- [Instagram Profile Picture Extraction](https://github.com/debdutgoswami/instagram-profile-picture)
+ [Instagram Profile Picture Extraction](https://github.com/debdutgoswami/instagram-profile-picture)<br/>
  [Face Recognition](https://github.com/ageitgey/face_recognition)
