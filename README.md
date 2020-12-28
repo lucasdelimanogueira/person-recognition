@@ -1,7 +1,7 @@
 # person-recognition
 A person recognition application based on Instagram profile photos
 
-Using the Instagram username of some person, it gets the profile photo used to recognize the person in other photos.
+Using the Instagram username of some person, the model gets the profile photo and uses it to recognize the person in other photos.
 
 # Example
  `$ python person-recognition.py --username zuck --path /home/user/Desktop/image.jpeg`
